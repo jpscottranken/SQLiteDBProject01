@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteDBProject01</string>
+    <string name="add_string">Add Record</string>
+    <string name="find_text">Find Record</string>
+    <string name="delete_text">Delete Record</string>
+    <string name="product_id_hint">Product ID</string>
+    <string name="product_name_hint">Product Name</string>
+    <string name="product_Quantity_hint">Product Quantity</string>
+</resources>
